@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Lifestyle</name>
+   <tag></tag>
+   <elementGuidId>c2d17e1d-6779-4fc3-955d-16cfa129baed</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/nav[2]/ul/li[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>e7a0af6b-c909-4af6-93e0-b85a6e410a8f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>transition-all duration-150 lg:mx-4 mx-2 xl:mx-6 lg:text-base cursor-pointer hover:border-b-2 hover:border-blue-500 text-sm null</value>
+      <webElementGuid>68dd8fc7-8bd8-4262-ac9b-c1c834bbae52</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Lifestyle</value>
+      <webElementGuid>697bcdbc-8f63-471c-8d43-2c2cb9cf2c8b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;w-full&quot;]/nav[@class=&quot;navbar scrolled w-full px5 shadow-md h-14&quot;]/ul[@class=&quot;md:flex hidden align-items-center justify-center w-full h-full py-4 px-2 lg:px-0 bg-white&quot;]/li[@class=&quot;transition-all duration-150 lg:mx-4 mx-2 xl:mx-6 lg:text-base cursor-pointer hover:border-b-2 hover:border-blue-500 text-sm null&quot;]</value>
+      <webElementGuid>9af78d4a-d278-4614-9cc2-e19c1bfc9fcb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/nav[2]/ul/li[4]</value>
+      <webElementGuid>30639881-7a51-4a61-940f-087a9e473a6f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hangout'])[1]/following::li[1]</value>
+      <webElementGuid>28dc058a-bbab-4147-8a3f-6e15eeaba992</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='HIGOes Update'])[1]/following::li[2]</value>
+      <webElementGuid>95e04ae3-9d31-4505-bf4b-c5d706a20a03</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tech &amp; Social Media'])[1]/preceding::li[1]</value>
+      <webElementGuid>a89d1560-0c49-40b6-bbf1-4db59343d17f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//nav[2]/ul/li[4]</value>
+      <webElementGuid>3075e6ad-956e-4e70-8618-0c0fbc2c82ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Lifestyle' or . = 'Lifestyle')]</value>
+      <webElementGuid>0da95aed-a086-4f9f-bd31-347c328415a7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

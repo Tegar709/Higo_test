@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_WiFi Advertising (173)</name>
+   <tag></tag>
+   <elementGuidId>ce8950f4-faa5-4b3d-a8fa-97b79e51a5cb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/section/div/div/div/h2</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>08a2af6b-0adf-4d76-88c3-1d78d3394203</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-aos</name>
+      <type>Main</type>
+      <value>fade-up</value>
+      <webElementGuid>6d6a5a23-1f78-4d5f-be9a-21300bebc122</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-aos-duration</name>
+      <type>Main</type>
+      <value>1000</value>
+      <webElementGuid>2195f2ff-2ac1-469a-af7b-9ff95031911d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-white text-4xl sm:text-2xl md:text-5xl lg:text-5xl 2xl:text-7xl uppercase font-RMConnect tracking-wide aos-init aos-animate</value>
+      <webElementGuid>6c5d723c-1158-4dee-8627-79b50a6d2e81</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>WiFi Advertising</value>
+      <webElementGuid>30477bd0-5b6b-4166-932e-2bb899a309f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;__className_85d873&quot;]/section[@class=&quot;sm:mt-28 sm:px-16&quot;]/div[@class=&quot;flex flex-col-reverse sm:grid grid-cols-3 xl:grid-cols-4 gap-4&quot;]/div[@class=&quot;relative col-span-2 xl:col-span-3 bg-gradient-to-l from-[#09BFEA] via-[#3A59FF] to-[#210A58] rounded-3xl flex items-center px-6 py-12 sm:py-0 pl-10 lg:pl-20 xl:pr-28&quot;]/div[@class=&quot;flex flex-col gap-5 md:gap-10 xl:gap-10&quot;]/h2[@class=&quot;text-white text-4xl sm:text-2xl md:text-5xl lg:text-5xl 2xl:text-7xl uppercase font-RMConnect tracking-wide aos-init aos-animate&quot;]</value>
+      <webElementGuid>e840fdcf-b8a6-4e8b-8c08-b0083241a476</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_HIGO  WiFi Advertising Platform dengan Ratusan Spot/iframe_Bahasa_react-iframe-container</value>
+      <webElementGuid>ff33baff-b6fa-4892-9a2a-26f2d764cfe7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/section/div/div/div/h2</value>
+      <webElementGuid>6d46741a-7a53-4d11-94aa-5be2df140ceb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Apa Keunggulan WiFi Advertising'])[1]/preceding::h2[1]</value>
+      <webElementGuid>6c99f31d-5709-4d8f-9b7e-8106d3a609c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Langkah-langkah Beriklan di WiFi Advertising'])[1]/preceding::h2[2]</value>
+      <webElementGuid>b536871e-e417-4ca8-a8d8-23e157d21eb1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='WiFi Advertising']/parent::*</value>
+      <webElementGuid>3be58991-db2b-419c-9f0e-1b1f47a847fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h2</value>
+      <webElementGuid>e4aa0f1a-58a0-4efb-83de-060a855a7a0d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[(text() = 'WiFi Advertising' or . = 'WiFi Advertising')]</value>
+      <webElementGuid>5a267ab8-539b-487a-aadf-ecfdac434d31</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

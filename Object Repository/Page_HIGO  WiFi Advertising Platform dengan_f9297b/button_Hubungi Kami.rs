@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Hubungi Kami</name>
+   <tag></tag>
+   <elementGuidId>b814ec92-cdf9-43b4-bce0-5336ef1c1242</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type='button']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>e744f539-5a3d-410a-93b7-b328a447e882</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>bd383421-2b38-4681-9975-21db15c45292</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>px-16 py-4 flex bg-[#04E3F4] rounded-full text-primary</value>
+      <webElementGuid>4dfc8724-b1aa-42c3-8927-482f6d117e93</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Hubungi Kami</value>
+      <webElementGuid>859002e7-8949-45a5-aaa9-3b8b82a4f8cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;__className_85d873&quot;]/section[@class=&quot;mt-44 lg:pl-16 max-w-[1900px] m-auto w-full&quot;]/div[@class=&quot;grid grid-cols-4&quot;]/div[@class=&quot;col-span-4 lg:rounded-3xl bg-gradient-to-b sm:bg-gradient-to-l from-[#09BFEA] via-[#3A59FF] to-[#210A58] flex flex-col sm:flex-row sm:items-center sm:h-96 lg:h-[31.25rem]&quot;]/div[@class=&quot;py-28 px-4 w-full sm:pl-10 lg:pl-28 sm:w-[60%]&quot;]/div[@class=&quot;pt-12 flex justify-center sm:block aos-init aos-animate&quot;]/button[@class=&quot;px-16 py-4 flex bg-[#04E3F4] rounded-full text-primary&quot;]</value>
+      <webElementGuid>06cfdf73-f58f-4ce7-9b38-32ffd05604a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_HIGO  WiFi Advertising Platform dengan_f9297b/iframe_Bahasa_react-iframe-container</value>
+      <webElementGuid>59948093-e0c0-42d3-8c50-19525ec359b8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@type='button']</value>
+      <webElementGuid>91ac85e7-ed93-44c1-a112-f1e7147823a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/section[3]/div/div/div/div/button</value>
+      <webElementGuid>f4edd920-9fd8-42fc-a8c6-4832588d250f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Penasaran dengan real-time Dashboard kami?'])[1]/following::button[1]</value>
+      <webElementGuid>807e60e0-98e1-4b7c-8f1a-f78d634743c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ciptakan Strategi Marketing yang Tepat'])[1]/following::button[1]</value>
+      <webElementGuid>b7dcc35d-0df2-4887-9d2e-010b4acdfc26</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tata Cara Pengunjung Menggunakan WiFi'])[1]/preceding::button[1]</value>
+      <webElementGuid>09b4d0db-3913-4c3a-9563-1c469e85a852</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='%'])[1]/preceding::button[1]</value>
+      <webElementGuid>f292e98d-f508-4b83-8780-bee3e4472623</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Hubungi Kami']/parent::*</value>
+      <webElementGuid>ec23d5b8-4033-41f9-ae77-6e05f30fb783</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>bbec0a90-5a6a-4745-be7f-38c6fb0e6b5d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Hubungi Kami' or . = 'Hubungi Kami')]</value>
+      <webElementGuid>291119ba-0c61-4a06-9820-7249a2e24d52</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

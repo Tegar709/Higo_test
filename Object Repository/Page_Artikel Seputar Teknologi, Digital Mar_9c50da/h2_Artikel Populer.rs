@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_Artikel Populer</name>
+   <tag></tag>
+   <elementGuidId>0a48a50a-6282-4a05-bc6e-aec29b539e01</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#title-popular > #sect-title</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//h2[@id='sect-title'])[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>fa81a665-39e8-41b8-bb70-18d2fb523a11</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>sect-title</value>
+      <webElementGuid>33de7543-157c-402b-8c2e-d16c7ad70300</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>w-11/12 mx-auto md:w-full text-lg xl:text-2xl border-b-2 border-blue-300 tracking-wide font-black</value>
+      <webElementGuid>c9a8b2f0-27fc-4dee-8bf4-7396095b2bff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Artikel Populer</value>
+      <webElementGuid>1f28a2bf-9957-4e99-a075-0a46ce3fb840</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;title-popular&quot;)/h2[@id=&quot;sect-title&quot;]</value>
+      <webElementGuid>6ea91249-58f5-4d5c-9cc4-e09c03f3dd7a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//h2[@id='sect-title'])[3]</value>
+      <webElementGuid>837f156b-412d-4ff3-95b4-f8c2a52efb3b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='title-popular']/h2</value>
+      <webElementGuid>7e09320d-b1da-4cd5-97c0-c71b63a047fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manfaat Meditasi Mindfulness Bagi Kesehetan Mental'])[1]/following::h2[3]</value>
+      <webElementGuid>bf84892c-c003-4ea0-8694-dc236c9800a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Trend Restoran yang Wajib Dicoba di 2024'])[1]/following::h2[4]</value>
+      <webElementGuid>8122b326-7a9b-44f4-a7f1-bff77ce805ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mengulik Alasan Pizza Hut Ganti Nama Jadi Ristorante'])[2]/preceding::h2[1]</value>
+      <webElementGuid>e036bc6f-4c87-4a3f-af83-c166b4f77706</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mengenal CPM dan RPM: Penghasilan Para Content Creator dan Influencer'])[1]/preceding::h2[3]</value>
+      <webElementGuid>6ef7fcaf-4c79-4b5a-bb42-23d953783bc5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Artikel Populer']/parent::*</value>
+      <webElementGuid>6549c6d5-a80a-4ee5-8a6b-512bdcb90f15</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/div/h2</value>
+      <webElementGuid>7dcf02da-5460-4460-ac9c-f75977cfa612</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[@id = 'sect-title' and (text() = 'Artikel Populer' or . = 'Artikel Populer')]</value>
+      <webElementGuid>662baf4f-4b86-47b0-93e7-573078330859</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

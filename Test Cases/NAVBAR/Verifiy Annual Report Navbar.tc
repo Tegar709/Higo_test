@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verifiy Annual Report Navbar</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>40644e98-2fcd-4e06-8522-a855476d03a3</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f7203c7f-1695-43ec-953a-bfded750a908</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f7203c7f-1695-43ec-953a-bfded750a908</id>
+      <masked>false</masked>
+      <name>variable</name>
+   </variable>
+</TestCaseEntity>

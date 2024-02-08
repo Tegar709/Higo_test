@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h4_Buat acara makin berkesan dengan fasilitas WiFi</name>
+   <tag></tag>
+   <elementGuidId>188af842-4c9a-492b-9966-658817db6ea6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#text-title</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//h4[@id='text-title']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h4</value>
+      <webElementGuid>a56539b0-f3a8-4570-96b2-e5299af65818</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>text-title</value>
+      <webElementGuid>bed5a0d7-651a-4d36-839d-942e9d7b8608</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Buat acara makin berkesan dengan fasilitas WiFi</value>
+      <webElementGuid>22f591bb-63db-4aa4-ac40-b40b7aa31efd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;text-title&quot;)</value>
+      <webElementGuid>b2e89777-9bbc-475e-b624-c0658bb8cdfc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//h4[@id='text-title']</value>
+      <webElementGuid>b7a7167c-554f-4a92-97a6-e70126f9cb38</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='wrapper']/div/h4</value>
+      <webElementGuid>bcdc075c-6537-46db-af88-4c8a4178f614</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Event'])[1]/following::h4[1]</value>
+      <webElementGuid>56ab7da0-dfb0-44ee-8708-a9bed08ed826</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lokasi Partner'])[1]/following::h4[2]</value>
+      <webElementGuid>d6113899-9ef5-4709-9bd9-48715af17d79</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pilih ISP terbaik'])[1]/preceding::h4[1]</value>
+      <webElementGuid>c35be6ff-c452-47fa-a0e7-19caa321d6d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Buat survei sesuai kebutuhan'])[1]/preceding::h4[1]</value>
+      <webElementGuid>19320fc6-3176-4653-a17d-4c94b3a63102</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Buat acara makin berkesan dengan fasilitas WiFi']/parent::*</value>
+      <webElementGuid>4f7ffdd5-7ebc-4a66-893a-10b2e338f663</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/h4</value>
+      <webElementGuid>f53c25e9-faf0-4f23-a64f-9270aa749ef1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h4[@id = 'text-title' and (text() = 'Buat acara makin berkesan dengan fasilitas WiFi' or . = 'Buat acara makin berkesan dengan fasilitas WiFi')]</value>
+      <webElementGuid>a5b4792a-0b09-48a0-8819-55208315bf3c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Annual Report</name>
+   <tag></tag>
+   <elementGuidId>bca1e76e-37ec-4084-8d9c-a1acc996eaa3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.item > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='outer-container']/div[2]/div[3]/header/div[2]/div/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>8e2378d0-3528-405a-9331-6fbddabd2080</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/annualreport2024</value>
+      <webElementGuid>d4a199e2-a86b-42d5-ad32-575813f6329e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Annual Report</value>
+      <webElementGuid>fc885679-1da3-4a27-a56e-c91fa9f8baee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;outer-container&quot;)/div[@class=&quot;home-container&quot;]/div[@class=&quot;backdrop-container&quot;]/header[@class=&quot;nav-container&quot;]/div[@class=&quot;nav-item&quot;]/div[@class=&quot;item&quot;]/a[1]</value>
+      <webElementGuid>6766e753-da20-4cab-a225-3698ee0dc51e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='outer-container']/div[2]/div[3]/header/div[2]/div/a</value>
+      <webElementGuid>d47e1e96-3295-4c47-be5b-d6449ca8fcc5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Annual Report')]</value>
+      <webElementGuid>68ffdec0-943f-4777-9579-385a59efa6a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Download Full Report'])[1]/following::a[2]</value>
+      <webElementGuid>e38307ab-15bd-4cea-8ae7-c4fb33e3d8c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BACA SELENGKAPNYA'])[1]/following::a[3]</value>
+      <webElementGuid>c391394e-2ade-4d2c-a652-610b1b14ffa9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tentang Kami'])[1]/preceding::a[1]</value>
+      <webElementGuid>0b51cf8d-34a0-48ad-9d78-37cb74219d23</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Servis Kami'])[1]/preceding::a[2]</value>
+      <webElementGuid>a7117f67-88a3-49de-99bd-7a79f619761e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Annual Report']/parent::*</value>
+      <webElementGuid>6717d8de-c862-469a-90e1-b06294976369</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/annualreport2024')])[3]</value>
+      <webElementGuid>b167c6ba-7a77-4f08-a21c-d6e89f7560b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/a</value>
+      <webElementGuid>5fd64f3c-d129-4e93-b5d9-adf3a9300bba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/annualreport2024' and (text() = 'Annual Report' or . = 'Annual Report')]</value>
+      <webElementGuid>92048618-b8c1-4776-8f04-512067fceb84</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

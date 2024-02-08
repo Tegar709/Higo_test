@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_Artikel Terbaru</name>
+   <tag></tag>
+   <elementGuidId>8a9b8ae0-18d6-4a80-aaf7-9ba49225ffb5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#sect-title</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//h2[@id='sect-title']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>8199de0c-bb3c-450d-aeb0-0860d101696e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>sect-title</value>
+      <webElementGuid>f3cd2313-db01-4d68-a914-5bd3c8ae66dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>w-11/12 mx-auto md:w-full text-lg xl:text-2xl border-b-2 border-blue-300 tracking-wide font-black</value>
+      <webElementGuid>1140b63b-1d47-41b6-874c-7de63d5f91f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Artikel Terbaru</value>
+      <webElementGuid>1b4e5dfb-cad0-40d2-aec0-18ad486e0bfb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;new-article&quot;)/h2[@id=&quot;sect-title&quot;]</value>
+      <webElementGuid>6196ab0b-1d5a-4327-85c6-cd89727ba4db</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//h2[@id='sect-title']</value>
+      <webElementGuid>29cae398-e51d-4b5a-bf71-7ffc0d2f910e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='new-article']/h2</value>
+      <webElementGuid>482341c5-6016-4360-a32b-ef7c61b65467</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All'])[2]/following::h2[1]</value>
+      <webElementGuid>9789cf84-f988-4c19-b0a8-7fdcaa0ee190</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Business Tips'])[1]/following::h2[2]</value>
+      <webElementGuid>711ecdc4-45f8-4e3c-b0e5-a57993227f0a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rekomendasi Netflix Untuk Temani Awal Tahun 2024'])[1]/preceding::h2[1]</value>
+      <webElementGuid>5fe14871-4580-43aa-ae93-2663bde7a56e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rekomendasi NGO Pecinta Lingkungan di Indonesia'])[1]/preceding::h2[1]</value>
+      <webElementGuid>5004ef1b-4ed8-4d55-afc2-80f8976f1866</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Artikel Terbaru']/parent::*</value>
+      <webElementGuid>13a71dae-283d-42f0-ac8f-67643fccd22b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/h2</value>
+      <webElementGuid>5a426d97-7e7f-497d-a565-3fa3629b776e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[@id = 'sect-title' and (text() = 'Artikel Terbaru' or . = 'Artikel Terbaru')]</value>
+      <webElementGuid>1122d38a-e678-43a0-8c98-9b6bd3ad3261</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

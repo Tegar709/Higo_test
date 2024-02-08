@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Business Tips02 02 2024Tips Memilih War_4611b6</name>
+   <tag></tag>
+   <elementGuidId>ed8f6eb2-6ee1-4125-8abb-e4b3b571c377</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='carousel-container']/div/ul/li[3]/div/div/div/a/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>82b7f5cb-6bac-46a9-afb6-90be82f3569f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>md:px-5 relative w-full h-full</value>
+      <webElementGuid>188c3efb-bcdc-4ebc-9ec5-5bd674b6c5a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Business Tips02 02 2024Tips Memilih Warna Dalam Desain BrandAda tips nya juga, lho!</value>
+      <webElementGuid>c5bf6c37-3874-4d7a-b50b-601762756212</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;carousel-container&quot;)/div[@class=&quot;react-multi-carousel-list  w-full h-full rounded&quot;]/ul[@class=&quot;react-multi-carousel-track&quot;]/li[@class=&quot;react-multi-carousel-item react-multi-carousel-item--active&quot;]/div[@class=&quot;w-full sm:w-11/12 md:w-full sm:mx-auto h-80 lg:h-lg xl:h-xl 2xl:h-2xl white pb-10&quot;]/div[@class=&quot;w-full h-full bg-gray-300&quot;]/div[@class=&quot;w-full h-full&quot;]/a[@class=&quot;cursor-pointer&quot;]/div[@class=&quot;md:px-5 relative w-full h-full&quot;]</value>
+      <webElementGuid>558f21d7-cb45-4584-b604-adbcb09c6b82</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='carousel-container']/div/ul/li[3]/div/div/div/a/div</value>
+      <webElementGuid>26fcc8ef-59ad-404c-b166-34b64e5a0a57</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rekomendasi NGO Pecinta Lingkungan di Indonesia'])[1]/following::div[4]</value>
+      <webElementGuid>4f79e30c-7c39-4ba6-98db-9150ff0f5cc7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rekomendasi Netflix Untuk Temani Awal Tahun 2024'])[1]/following::div[11]</value>
+      <webElementGuid>605e4904-0abe-4b10-b679-ccc783ca69b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rekomendasi Netflix Untuk Temani Awal Tahun 2024'])[2]/preceding::div[5]</value>
+      <webElementGuid>e989f4dc-0d62-481e-8555-89d4ffc97455</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/div/div/div/a/div</value>
+      <webElementGuid>6f6ca2cf-1151-4298-b3f4-6e74d96349fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Business Tips02 02 2024Tips Memilih Warna Dalam Desain BrandAda tips nya juga, lho!' or . = 'Business Tips02 02 2024Tips Memilih Warna Dalam Desain BrandAda tips nya juga, lho!')]</value>
+      <webElementGuid>160cc2fb-ac8b-4d14-9fc5-5011224e67e6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

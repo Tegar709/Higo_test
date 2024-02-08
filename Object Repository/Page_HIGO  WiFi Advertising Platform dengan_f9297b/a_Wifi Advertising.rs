@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Wifi Advertising</name>
+   <tag></tag>
+   <elementGuidId>d5a464e2-c224-4551-918a-ade8ff03f2dc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='outer-container']/div[2]/div[3]/header/div[2]/div[3]/div[2]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.dropdown-content > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>464d97ea-ee7a-4227-b72e-8ac410b71382</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/wifi-advertising</value>
+      <webElementGuid>bb4e003d-e5b2-4e01-9d3d-e942ccff9369</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Wifi Advertising</value>
+      <webElementGuid>1e0a3678-7d28-469e-bbcc-5ee3a4c7c1d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;outer-container&quot;)/div[@class=&quot;home-container&quot;]/div[@class=&quot;backdrop-container&quot;]/header[@class=&quot;nav-container&quot;]/div[@class=&quot;nav-item&quot;]/div[@class=&quot;dropdown&quot;]/div[@class=&quot;dropdown-content&quot;]/a[1]</value>
+      <webElementGuid>ed4fc37f-0b6b-4f9a-b5d9-929d6e869284</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='outer-container']/div[2]/div[3]/header/div[2]/div[3]/div[2]/a</value>
+      <webElementGuid>281d2a1d-a630-44ca-bf55-8bb75c541ad9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Wifi Advertising')]</value>
+      <webElementGuid>2e07ce38-242e-4b89-91da-8b539fe08478</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Servis Kami'])[1]/following::a[1]</value>
+      <webElementGuid>7c77b2cf-2696-4e39-8cf5-bea4b07974fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tentang Kami'])[1]/following::a[1]</value>
+      <webElementGuid>67df7098-cbf9-4adf-b16b-fe4191584533</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Higospot'])[1]/preceding::a[1]</value>
+      <webElementGuid>11cbd9bf-7a21-477a-ab31-2407a218240a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Integrated Digital Agency'])[1]/preceding::a[2]</value>
+      <webElementGuid>1fca396e-3f41-4d83-80f6-54eb58c2694e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Wifi Advertising']/parent::*</value>
+      <webElementGuid>e94bbc46-b906-440e-8554-bd546685c7ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/wifi-advertising')]</value>
+      <webElementGuid>52557b54-62b7-4845-8276-40b7ddfaa77a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/a</value>
+      <webElementGuid>d88cee2c-22a7-4368-902f-5dce13ddded7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/wifi-advertising' and (text() = 'Wifi Advertising' or . = 'Wifi Advertising')]</value>
+      <webElementGuid>892a826d-5263-48d3-b8a0-81fd326ea501</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_PT Higo Fitur Indonesia 2020</name>
+   <tag></tag>
+   <elementGuidId>88579b32-0b30-46e3-94dd-9b01b053adc1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.higo-fitur > p</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[2]/div/div/div[2]/div/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>ffc10b99-9cee-4d11-9896-7bc4ecc4e551</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>© PT Higo Fitur Indonesia 2020</value>
+      <webElementGuid>33f5363a-a564-4c41-a635-0cba5f8deeb2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;w-full&quot;]/div[@class=&quot;null&quot;]/div[@class=&quot;footer-container&quot;]/div[@class=&quot;subscribe-container&quot;]/div[@class=&quot;bottom-banget&quot;]/div[@class=&quot;higo-fitur&quot;]/p[1]</value>
+      <webElementGuid>d7033a6c-9c70-48bb-9140-3f1f1ff6a1b2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/div/div/div[2]/div/p</value>
+      <webElementGuid>f3ef7829-0392-4dc6-b8e7-6b29c055d184</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Privacy &amp; Policy'])[1]/following::p[1]</value>
+      <webElementGuid>2ab26e26-17fd-4001-a727-2ae82c148d7d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Terms &amp; Conditions'])[1]/following::p[1]</value>
+      <webElementGuid>296dc77b-5911-4601-bfc0-ad648487cb2f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='© PT Higo Fitur Indonesia 2020']/parent::*</value>
+      <webElementGuid>393b2d17-7977-4866-933b-1099c90dd495</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]/div/p</value>
+      <webElementGuid>92add965-001a-4803-8833-a2333c4498c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = '© PT Higo Fitur Indonesia 2020' or . = '© PT Higo Fitur Indonesia 2020')]</value>
+      <webElementGuid>ffc00014-0535-4ac6-b2ce-004ac806ff95</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

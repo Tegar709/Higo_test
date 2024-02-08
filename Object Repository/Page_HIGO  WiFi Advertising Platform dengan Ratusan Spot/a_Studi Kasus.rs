@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Studi Kasus</name>
+   <tag></tag>
+   <elementGuidId>ecf071e2-4032-4201-bf7c-7767fc0478fc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='outer-container']/div[2]/div[3]/header/div[2]/div[4]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>c92db94b-b8fc-44e2-9836-30dd5345fdcd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/case-study</value>
+      <webElementGuid>9e5847f8-0ddd-4737-8b90-f103ad080ccb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Studi Kasus</value>
+      <webElementGuid>015786ff-1eb5-41e2-9dfa-fe75ade12261</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;outer-container&quot;)/div[@class=&quot;home-container&quot;]/div[@class=&quot;backdrop-container&quot;]/header[@class=&quot;nav-container&quot;]/div[@class=&quot;nav-item&quot;]/div[@class=&quot;item&quot;]/a[1]</value>
+      <webElementGuid>d342ce61-b731-4cb8-858e-08eebc0a788e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='outer-container']/div[2]/div[3]/header/div[2]/div[4]/a</value>
+      <webElementGuid>87d8641a-43a8-4959-ab69-4414e2786797</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Studi Kasus')]</value>
+      <webElementGuid>5c380494-ad1b-477d-ac97-be093c98efe5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Integrated Digital Agency'])[1]/following::a[1]</value>
+      <webElementGuid>e56f99f2-78f5-47ad-818a-57b5b09e2d14</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Higospot'])[1]/following::a[2]</value>
+      <webElementGuid>0dc8f1e9-1f9b-4437-8126-28eb52d28098</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Blog'])[1]/preceding::a[1]</value>
+      <webElementGuid>385e25b9-d048-4518-958a-23f9301b72c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hubungi Kami'])[1]/preceding::a[1]</value>
+      <webElementGuid>44ceefc4-627c-4266-82ae-7911fba5212e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Studi Kasus']/parent::*</value>
+      <webElementGuid>cf552dc2-5f4c-498e-ab21-24a0567700ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/case-study')]</value>
+      <webElementGuid>b6de43e7-6309-4252-b260-162d74c93410</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/a</value>
+      <webElementGuid>1adc0fa3-abc3-41b8-abbe-cf141eed2a71</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/case-study' and (text() = 'Studi Kasus' or . = 'Studi Kasus')]</value>
+      <webElementGuid>65bf3634-415a-45a7-a1bb-df9aa6d2c1be</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h4_Event</name>
+   <tag></tag>
+   <elementGuidId>b6361df0-6cfe-429d-b788-2bb8661abd50</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#event-content > h4</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='event-content']/h4</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h4</value>
+      <webElementGuid>3fcfa43e-8131-4969-8c06-bb2541219885</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Event</value>
+      <webElementGuid>c2c10efc-c2f3-4fb1-9bf6-f0284a43ab07</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;event-content&quot;)/h4[1]</value>
+      <webElementGuid>29e06c0c-81db-41b8-9e57-cd49f7f72e44</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='event-content']/h4</value>
+      <webElementGuid>080f7126-3064-432e-92b9-63816ce8b173</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lokasi Partner'])[1]/following::h4[1]</value>
+      <webElementGuid>8df3a75e-caf7-40de-ace6-b9c51bc25850</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Iklan'])[1]/following::h4[2]</value>
+      <webElementGuid>c8a1f516-9aaf-4632-9302-00fa5b1e98e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pastikan iklanmu dilihat tanpa bisa dilewatkan'])[1]/preceding::h4[1]</value>
+      <webElementGuid>8c965e66-c1b1-4c96-bb9e-6be5b85bbe0a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tingkatkan brand awareness'])[1]/preceding::h4[2]</value>
+      <webElementGuid>486bb374-9d8b-4cd4-b393-28632a7b51d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Event']/parent::*</value>
+      <webElementGuid>94162254-4707-40d7-a648-3456f07ac2ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/h4</value>
+      <webElementGuid>f19a44c2-50b1-452f-b605-b403d7070016</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h4[(text() = 'Event' or . = 'Event')]</value>
+      <webElementGuid>805fb213-198c-4668-a15d-e64e51ebf88f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

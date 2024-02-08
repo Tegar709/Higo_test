@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h4_HIGO DIGITAL MANUAL 2024</name>
+   <tag></tag>
+   <elementGuidId>12a66c93-e607-4b39-8486-3176e3b146f4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.content > h4</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/section/div/div[2]/div/header/div[2]/h4</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h4</value>
+      <webElementGuid>4e30329a-a52c-4cb4-a77b-88785530c897</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>HIGO DIGITAL MANUAL 2024</value>
+      <webElementGuid>348278c2-b4bd-4cf1-96d7-530adfafba11</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;annual-container&quot;]/section[@class=&quot;annual-report-hero-container&quot;]/div[@class=&quot;vm--container&quot;]/div[@class=&quot;vm--modal&quot;]/div[@class=&quot;annual-report-form-container&quot;]/header[1]/div[@class=&quot;content&quot;]/h4[1]</value>
+      <webElementGuid>010fb4f4-e0c6-4add-8879-6f6d16159a59</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/section/div/div[2]/div/header/div[2]/h4</value>
+      <webElementGuid>5db6a72e-5de3-4c51-8a32-889f177a7406</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bahasa'])[1]/following::h4[1]</value>
+      <webElementGuid>ae3ec266-a989-4de8-af3d-00bb7ca1d11e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hubungi Kami'])[1]/following::h4[2]</value>
+      <webElementGuid>2aadbbbb-db9a-45bf-b849-111355dbd00d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Download'])[1]/preceding::h4[1]</value>
+      <webElementGuid>518ec0ad-0c64-4eac-854e-032efda68b3b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='HIGO DIGITAL MANUAL 2024']/parent::*</value>
+      <webElementGuid>8df73b0c-08d9-4210-90c1-65be3acb40d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//header/div[2]/h4</value>
+      <webElementGuid>ef5e3f8e-90b1-46c1-8324-3e186473a347</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h4[(text() = 'HIGO DIGITAL MANUAL 2024' or . = 'HIGO DIGITAL MANUAL 2024')]</value>
+      <webElementGuid>3b359b9d-5f63-44e5-b92d-1c5e384c08b0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

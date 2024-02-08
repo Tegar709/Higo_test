@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Tech  Social Media</name>
+   <tag></tag>
+   <elementGuidId>5a7aa7ee-94ae-4677-867b-a68695ef3147</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/nav[2]/ul/li[5]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>87ae6ea5-15af-452d-ac24-0a066e7bfc83</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/tech-social-media</value>
+      <webElementGuid>80652a12-b42f-43ec-88c1-fe3c90aa3843</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tech &amp; Social Media</value>
+      <webElementGuid>2cfbdeee-26e0-4324-a6dd-db7751af4c95</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;w-full&quot;]/nav[@class=&quot;navbar scrolled w-full px5 shadow-md h-14&quot;]/ul[@class=&quot;md:flex hidden align-items-center justify-center w-full h-full py-4 px-2 lg:px-0 bg-white&quot;]/li[@class=&quot;transition-all duration-150 lg:mx-4 mx-2 xl:mx-6 lg:text-base cursor-pointer hover:border-b-2 hover:border-blue-500 text-sm null&quot;]/a[1]</value>
+      <webElementGuid>f298da7c-059f-408d-afcd-215a25486f99</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/nav[2]/ul/li[5]/a</value>
+      <webElementGuid>0299c346-1351-4af2-94fd-96e18080e045</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Tech &amp; Social Media')]</value>
+      <webElementGuid>5680a343-a3ee-4a34-9d65-7b8576f93454</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lifestyle'])[1]/following::a[1]</value>
+      <webElementGuid>6e41b358-dbfe-4dc5-903c-0e79ad4e1a02</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hangout'])[1]/following::a[2]</value>
+      <webElementGuid>ea787de7-7637-40aa-afd4-65e4bf486c4c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Business Tips'])[1]/preceding::a[1]</value>
+      <webElementGuid>2343efc9-5216-4ff5-9bd4-be1eec7f5104</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lifestyle'])[2]/preceding::a[2]</value>
+      <webElementGuid>130fd66b-3b4c-4539-84df-2836a3e1a7a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Tech &amp; Social Media']/parent::*</value>
+      <webElementGuid>d16691f0-988a-4de8-a729-7968596382ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/tech-social-media')]</value>
+      <webElementGuid>ef86734e-b78c-4ab0-9a44-88e901ddae58</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[5]/a</value>
+      <webElementGuid>61b7e328-d050-4c3f-8311-d33657d84b3c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/tech-social-media' and (text() = 'Tech &amp; Social Media' or . = 'Tech &amp; Social Media')]</value>
+      <webElementGuid>bd8770eb-920a-41d2-b9a0-222bd67c9e81</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

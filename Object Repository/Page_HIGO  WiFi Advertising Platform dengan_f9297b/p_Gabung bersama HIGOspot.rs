@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Gabung bersama HIGOspot</name>
+   <tag></tag>
+   <elementGuidId>f66a7b2a-fd5b-4695-97d0-59b839efd1a5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='btn-home']/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>d437f273-e04c-4031-a5e3-7862445095ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Gabung bersama HIGOspot</value>
+      <webElementGuid>7f082211-db35-427d-b7eb-8d010ae4451f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;btn-home&quot;)/p[1]</value>
+      <webElementGuid>0d627c21-567e-4b4f-9f32-a2fbd4599b26</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='btn-home']/p</value>
+      <webElementGuid>e7e4fd64-9a60-4481-a00c-677911dc090f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mau maksimalin fasilitas WiFi di lokasimu?'])[1]/following::p[1]</value>
+      <webElementGuid>d0c9afda-3a47-453f-8dfa-28cf183a86a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='WiFi Advertising'])[1]/preceding::p[1]</value>
+      <webElementGuid>1df20f16-1725-4bd8-8c9e-a27406a6ba0c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Platform Indonesia'])[1]/preceding::p[1]</value>
+      <webElementGuid>ca0ef9c4-664d-4b7c-b98c-780133eac6a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Gabung bersama HIGOspot']/parent::*</value>
+      <webElementGuid>6a33ae3c-7330-4a5d-bc4d-471b8db0e22b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p</value>
+      <webElementGuid>ad021cd9-2390-4704-b5ca-ef75abd80a78</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Gabung bersama HIGOspot' or . = 'Gabung bersama HIGOspot')]</value>
+      <webElementGuid>800202e8-3e9c-4405-8310-2544b9b18ac1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

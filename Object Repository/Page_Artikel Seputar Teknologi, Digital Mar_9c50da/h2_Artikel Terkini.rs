@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_Artikel Terkini</name>
+   <tag></tag>
+   <elementGuidId>cf4c9ffd-8082-466d-9e81-a6013b6089d9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//h2[@id='sect-title'])[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>06d4306b-ce7c-4128-a1af-2064142b98cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>sect-title</value>
+      <webElementGuid>7f02074e-2972-4b40-8d23-0a127d2b7f45</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>w-11/12 mx-auto md:w-full text-lg xl:text-2xl border-b-2 border-blue-300 tracking-wide font-black</value>
+      <webElementGuid>809b6b55-c0d8-40ff-ace4-3c7c403ac6a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Artikel Terkini</value>
+      <webElementGuid>03a1a302-b50f-4f5b-92b1-6f2efe427fb5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;new article&quot;)/div[@class=&quot;w-12/12 md:w-11/12 lg:w-full md:mx-auto h-auto pt-14&quot;]/h2[@id=&quot;sect-title&quot;]</value>
+      <webElementGuid>17e7b592-39e8-425d-9d5a-b0d101511347</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//h2[@id='sect-title'])[2]</value>
+      <webElementGuid>9be917b5-ba32-4169-aa83-26618df5693e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='new article']/div[2]/h2</value>
+      <webElementGuid>63f15da5-1f1e-4b2a-86aa-e68fc08b0d6c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rekomendasi Netflix Untuk Temani Awal Tahun 2024'])[3]/following::h2[1]</value>
+      <webElementGuid>1f5a1882-7150-4fbb-bbf6-49a66882be07</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tips Memilih Warna Dalam Desain Brand'])[2]/following::h2[1]</value>
+      <webElementGuid>e4e15a98-ec0e-4bce-8fec-e7f82ef9e2ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cara Buat Konten Instagram Dalam 5 Menit'])[1]/preceding::h2[1]</value>
+      <webElementGuid>74c4a76f-8a9c-4dbf-83b8-99383127a842</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mengulik Alasan Pizza Hut Ganti Nama Jadi Ristorante'])[1]/preceding::h2[2]</value>
+      <webElementGuid>05787424-4ee8-435c-a920-b430159804a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Artikel Terkini']/parent::*</value>
+      <webElementGuid>19bef83d-1f64-4d2b-b261-707b98a32379</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/h2</value>
+      <webElementGuid>0da54581-0823-4144-b992-e77075c8e39c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[@id = 'sect-title' and (text() = 'Artikel Terkini' or . = 'Artikel Terkini')]</value>
+      <webElementGuid>668812cb-7e5a-47e6-8e6f-0d3b315837b8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

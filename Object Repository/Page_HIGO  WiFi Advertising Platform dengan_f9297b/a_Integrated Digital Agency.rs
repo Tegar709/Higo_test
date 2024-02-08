@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Integrated Digital Agency</name>
+   <tag></tag>
+   <elementGuidId>5a5662e2-2163-4854-b8a9-8894716d225a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a:nth-of-type(3)</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='outer-container']/div[2]/div[3]/header/div[2]/div[3]/div[2]/a[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>691fab90-efd3-4037-8478-95a92f24f89b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/integrated-digital-agency</value>
+      <webElementGuid>264c612f-2fb5-41dd-94fb-f0f00f544ea0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Integrated Digital Agency</value>
+      <webElementGuid>426754dd-5599-4e93-a786-8018e74098b4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;outer-container&quot;)/div[@class=&quot;home-container&quot;]/div[@class=&quot;backdrop-container&quot;]/header[@class=&quot;nav-container&quot;]/div[@class=&quot;nav-item&quot;]/div[@class=&quot;dropdown&quot;]/div[@class=&quot;dropdown-content&quot;]/a[3]</value>
+      <webElementGuid>363f41ad-26df-48f8-923c-1f2bf129ebc5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='outer-container']/div[2]/div[3]/header/div[2]/div[3]/div[2]/a[3]</value>
+      <webElementGuid>edc0f623-bd99-439d-aef0-8c03071ac989</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Integrated Digital Agency')]</value>
+      <webElementGuid>d2e51cf2-77ab-4613-b399-7d3df8670885</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Higospot'])[1]/following::a[1]</value>
+      <webElementGuid>009b12b7-6814-48d1-ae5b-90feec9c48e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Wifi Advertising'])[1]/following::a[2]</value>
+      <webElementGuid>4d7e97ef-e5ae-484e-950d-f96690f374f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Studi Kasus'])[1]/preceding::a[1]</value>
+      <webElementGuid>189498ea-a5b4-4f6c-94a9-4d755f85931c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Blog'])[1]/preceding::a[2]</value>
+      <webElementGuid>4ea718b7-26c8-49b1-b910-1d4f76acc543</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Integrated Digital Agency']/parent::*</value>
+      <webElementGuid>1c668baf-22c3-44c8-8c92-950752688687</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/integrated-digital-agency')]</value>
+      <webElementGuid>32e919f7-4956-46b1-99dd-5276d14b9caa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[3]</value>
+      <webElementGuid>c436b4fd-5f53-4509-8570-6d76d8d22061</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/integrated-digital-agency' and (text() = 'Integrated Digital Agency' or . = 'Integrated Digital Agency')]</value>
+      <webElementGuid>8a9c2012-ce42-4f61-bda2-105a5f2321c5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Business Tips</name>
+   <tag></tag>
+   <elementGuidId>c9435a7c-69d6-499e-a96c-cf56bdb952e1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/nav[2]/ul/li[6]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>fb02f3cd-5eb3-43f6-b7e3-76a72eeddf33</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/business-tips</value>
+      <webElementGuid>680f9a5b-9578-4ee6-8313-14226bc3eb5c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Business Tips</value>
+      <webElementGuid>3401489b-6bda-44c0-847c-892804d4099c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;w-full&quot;]/nav[@class=&quot;navbar scrolled w-full px5 shadow-md h-14&quot;]/ul[@class=&quot;md:flex hidden align-items-center justify-center w-full h-full py-4 px-2 lg:px-0 bg-white&quot;]/li[@class=&quot;transition-all duration-150 lg:mx-4 mx-2 xl:mx-6 lg:text-base cursor-pointer hover:border-b-2 hover:border-blue-500 text-sm null&quot;]/a[1]</value>
+      <webElementGuid>5e385d74-079c-41ad-99d6-648562bf9a3d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/nav[2]/ul/li[6]/a</value>
+      <webElementGuid>b616b704-04b8-4eb3-8625-87634707d9a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Business Tips')]</value>
+      <webElementGuid>14316a22-73b8-4ae8-8b37-a4d1eb4cfc77</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tech &amp; Social Media'])[1]/following::a[1]</value>
+      <webElementGuid>e31c4dc1-c511-42b5-b25d-0439f6f919b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lifestyle'])[1]/following::a[2]</value>
+      <webElementGuid>ac621841-bc1e-48cc-a77e-534a140c1f21</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tech &amp; Social Media'])[2]/preceding::a[1]</value>
+      <webElementGuid>7d165da7-ba13-4900-bef6-08a959bf522b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Artikel Terbaru'])[1]/preceding::a[1]</value>
+      <webElementGuid>90057f27-2a01-419c-8fa7-4e8c3438d47c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Business Tips']/parent::*</value>
+      <webElementGuid>2648c3ad-6e40-47eb-b086-9572d2a2eef4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/business-tips')]</value>
+      <webElementGuid>d7ba3b7f-0f12-40e9-a462-4d7013d259f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[6]/a</value>
+      <webElementGuid>2fb47ebc-ddee-499f-85c1-23bf86b768ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/business-tips' and (text() = 'Business Tips' or . = 'Business Tips')]</value>
+      <webElementGuid>71748712-bd13-4ad4-9dbc-4a7c47827317</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
